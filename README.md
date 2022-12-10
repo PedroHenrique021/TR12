@@ -23,7 +23,9 @@ De acordo com a main.c
 
 O programa pergutará de que tamanho será o vetor, logo após você irá inserir os números desejados.
 Caso queira encerrar o programa digite -1.
+
 Quando for encerrado, mostrará os números digitados em ordem crescente, e o menor número que foi digitado, será removido.
+
 obs: o programa mudará o comportamento caso o arquivo main.c seja alterado.
 
 OBS
