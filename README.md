@@ -8,7 +8,7 @@ Ao baixá-la você irá descompactar a pasta zip. Quando for descompactada, irá
 COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal dentro da pasta em que o arquivos estão.
-Digite o seguite comando: gcc TR4.c main.c -o teste
+Digite o seguite comando: gcc TR5.c main.c -o teste
 Assim, gerando um arquivo executável, com o nome teste.
 
 EXECUTANDO O CÓDIGO:
